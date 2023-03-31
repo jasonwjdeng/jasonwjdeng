@@ -2,10 +2,11 @@
 
 ### Hi there 👋 I'm Jason Deng
 
-Developer (17+ years).
+Developer (18+ years).
 
 * Bachelor, Computer Science.
 * Java (mainly), C/C++, JavaScript, Go.
 * Design patterns, networking, sql/nosql database.
+* Java performance tuning.
 * Working on cloud applications, distributed systems.
 * Worked for banking, working for telecom.
