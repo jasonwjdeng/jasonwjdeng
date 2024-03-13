@@ -2,7 +2,7 @@
 
 ### Hi there 👋 I'm Jason Deng
 
-Developer (18+ years).
+Developer since 2004
 
 * Bachelor, Computer Science.
 * Java (mainly), C/C++, JavaScript, Go.
