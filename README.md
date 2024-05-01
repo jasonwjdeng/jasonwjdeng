@@ -6,6 +6,7 @@ Developer since 2004
 
 * Bachelor, Computer Science.
 * Java (mainly), C/C++, JavaScript, Go.
+* Kubernetes, Istio, Docker.
 * Design patterns, networking, sql/nosql database.
 * Java performance tuning.
 * Working on cloud applications, distributed systems.
