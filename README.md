@@ -12,5 +12,5 @@ Developer since 2004
 * Working on cloud applications, distributed systems.
 * Worked for banking, working for telecom.
 
-微信公众号:<br>
+微信公众号（码农水哥：manongshuige）<br>
 ![manongshuige](https://github.com/jasonwjdeng/jasonwjdeng/assets/13627451/09a919e8-1f06-46be-88ec-111b538e89f9)
